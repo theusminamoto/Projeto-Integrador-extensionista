@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Doces da Lú - Confeitaria Artesanal</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; }
+        header { background: #FFC0CB; padding: 20px; text-align: center; }
+        nav { background: #FF69B4; padding: 10px; text-align: center; }
+        nav a { color: white; margin: 0 15px; text-decoration: none; }
+        section { padding: 20px; }
+        footer { background: #FF69B4; color: white; text-align: center; padding: 10px; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>🍰 Doces da Lú</h1>
+        <p>Confeitaria artesanal com amor!</p>
+    </header>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="cardapio.html">Cardápio</a>
+        <a href="contato.html">Contato</a>
+    </nav>
+    <section>
+        <h2>Bem-vindo!</h2>
+        <p>Doces feitos com ingredientes de qualidade para seu evento especial.</p>
+        <img src="https://via.placeholder.com/400x200" alt="Doces da Lú">
+    </section>
+    <footer>
+        <p>© 2024 Doces da Lú - Todos os direitos reservados</p>
+    </footer>
+</body>
+</html>
